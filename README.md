@@ -1,4 +1,4 @@
-📊 INX Future Inc – Employee Performance & Insights Dashboard
+# 📊 INX Future Inc – Employee Performance & Insights Dashboard
 
 🏢 About the Company
 INX Future Inc is a global leader in data analytics and automation solutions with 15+ years of business excellence. Renowned for its employee-friendly policies, INX has consistently ranked among the Top 20 Best Employers for the last 5 years.
